@@ -2,7 +2,7 @@
   "name": "crwn-clothing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://merha-g-selassie.github.io/crwn-clothing/",
+  "homepage": "https://merha-g-selassie.github.io/crwn-clothing",
   "dependencies": {
     "firebase": "^6.4.1",
     "gh-pages": "^2.1.1",
